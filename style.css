@@ -1,0 +1,22 @@
+.main_header{
+    color: white;
+}
+
+#score{
+    font-size: larger;
+    float: left;
+    margin-left: 25px;
+}
+
+#timer{
+    font-size: larger;
+    float: right;
+    margin-right: 25px;
+}
+
+#sketch_to_be_drawn{
+    color:darkred;
+    font-size: large;
+    font-weight: bolder;
+
+}
